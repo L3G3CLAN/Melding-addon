@@ -1,0 +1,13 @@
+{
+    "channel": "Notification Channel ID Here",
+
+    "no_chaanel": "No Notification Chat Found!",
+    "notification_chat": "You can find your message in:",
+ 
+    "no_msg": "No Message Provided!",
+    "title": "Notification by:",
+    "msg": "Notification:",
+    "footer": "notification addon",
+
+    "cmd_notification_disc": "Allows you to send a notification"
+}
