@@ -1,6 +1,15 @@
 {
     "channel": "Notification Channel ID Here",
 
+    "no_admin": "You're not ADMIN so you can't do this.",
+    "no_chaanel": "No Notification Chat Found!",
+    "notification_chat": "You can find your message in:",
+    "no_msg": "No Message Provided!",
+    "title": "Notification by:",
+    "msg": "Notification:",
+    "footer": "notification addon",
+    "cmd_notification_disc": "Allows you to send a notification",
+
     "nl-NL": {
         "no_admin": "U bent geen ADMIN, dus u kunt dit niet doen.",
         "no_chaanel": "Geen Melding Chat Gevonden!",
